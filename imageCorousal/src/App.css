@@ -1,0 +1,32 @@
+.sliderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.mainImages {
+  height: 300px;
+  width: 100%;
+  border: 1px solid black;
+  position: relative;
+
+}
+
+.arrow {
+  height: 50px;
+  width: 60px;
+  cursor: pointer; 
+  position: absolute;
+}
+
+
+.arrow.left {
+  left: 0; /* Position the left arrow on the left */
+  z-index: 100;
+}
+
+.arrow.right {
+  right: 0; /* Position the right arrow on the right */
+  z-index : 100;
+} 
