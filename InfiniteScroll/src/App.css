@@ -1,0 +1,18 @@
+.mainContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.ImageBox{
+  border : 1px solid black;
+  margin : 5px;
+  padding : 5px;
+  border-radius: 30px;
+}
+
+.cardImage{
+  height: 300px;
+  width: 300px;
+  border-radius: 30px;
+}

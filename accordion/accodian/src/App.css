@@ -1,0 +1,13 @@
+.itemBox {
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin-top: 2px;
+}
+
+.itemHeader {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
