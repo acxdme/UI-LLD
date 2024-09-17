@@ -50,11 +50,18 @@ Follow these instructions to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/UI-LLD.git
+   
 2.Navigate to the project directory:
-cd UI-LLD
+    ```bash
+    
+    cd UI-LLD
 
 3.Install dependencies:
-npm install
+    ```bash
+    
+    npm install
 
 4.Run the project
-npm run dev
+    ```bash
+    
+    npm run dev
