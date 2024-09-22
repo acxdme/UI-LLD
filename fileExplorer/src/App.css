@@ -1,0 +1,7 @@
+div {
+  font-family: Arial, sans-serif;
+}
+
+div > div {
+  margin: 2px 0;
+}
